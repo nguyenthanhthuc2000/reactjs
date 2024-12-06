@@ -1,0 +1,110 @@
+[
+    {
+        "id": "1",
+        "name": "Wade Warren",
+        "description": "Passionate Frontend Developer",
+        "avatar": "https://picsum.photos/200/200?random=1",
+        "socials": {
+            "dribble": "#",
+            "codepen": "#",
+            "github": "#",
+            "twitter": "#"
+        }
+    },
+    {
+        "id": "2",
+        "name": "Jane Smith",
+        "description": "Expert Backend Specialist",
+        "avatar": "https://picsum.photos/200/200?random=2",
+        "socials": {
+            "dribble": "#",
+            "codepen": "#",
+            "github": "#",
+            "twitter": "#"
+        }
+    },
+    {
+        "id": "3",
+        "name": "David Johnson",
+        "description": "UI/UX Enthusiast",
+        "avatar": "https://picsum.photos/200/200?random=3",
+        "socials": {
+            "dribble": "#",
+            "codepen": "#",
+            "github": "#",
+            "twitter": "#"
+        }
+    },
+    {
+        "id": "4",
+        "name": "Emily Brown",
+        "description": "Cloud Computing Professional",
+        "avatar": "https://picsum.photos/200/200?random=4",
+        "socials": {
+            "dribble": "#",
+            "codepen": "#",
+            "github": "#",
+            "twitter": "#"
+        }
+    },
+    {
+        "id": "5",
+        "name": "Chris White",
+        "description": "Full-Stack Developer",
+        "avatar": "https://picsum.photos/200/200?random=5",
+        "socials": {
+            "dribble": "#",
+            "codepen": "#",
+            "github": "#",
+            "twitter": "#"
+        }
+    },
+    {
+        "id": "6",
+        "name": "Sophia Martinez",
+        "description": "Machine Learning Engineer",
+        "avatar": "https://picsum.photos/200/200?random=6",
+        "socials": {
+            "dribble": "#",
+            "codepen": "#",
+            "github": "#",
+            "twitter": "#"
+        }
+    },
+    {
+        "id": "7",
+        "name": "Liam Walker",
+        "description": "Cybersecurity Expert",
+        "avatar": "https://picsum.photos/200/200?random=7",
+        "socials": {
+            "dribble": "#",
+            "codepen": "#",
+            "github": "#",
+            "twitter": "#"
+        }
+    },
+    {
+        "id": "8",
+        "name": "Olivia Clark",
+        "description": "Creative Graphic Designer",
+        "avatar": "https://picsum.photos/200/200?random=8",
+        "socials": {
+            "dribble": "#",
+            "codepen": "#",
+            "github": "#",
+            "twitter": "#"
+        }
+    },
+    {
+        "id": "9",
+        "name": "James Hall",
+        "description": "Blockchain Developer",
+        "avatar": "https://picsum.photos/200/200?random=9",
+        "socials": {
+            "dribble": "#",
+            "codepen": "#",
+            "github": "#",
+            "twitter": "#"
+        }
+    }
+]
